@@ -1,0 +1,68 @@
+com/example/myapplication/model/DbHelper.java
+ com.example.myapplication.model.DbHelper
+com/example/myapplication/FAQs.java
+ com.example.myapplication.FAQs
+com/example/myapplication/Automata_Reviews.java
+ com.example.myapplication.Automata_Reviews
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+ com.example.myapplication.MainActivity$1
+ com.example.myapplication.MainActivity$2
+com/example/myapplication/SDA_Reviews.java
+ com.example.myapplication.SDA_Reviews
+com/example/myapplication/classes/Register.java
+ com.example.myapplication.classes.Register
+com/example/myapplication/classes/User.java
+ com.example.myapplication.classes.User
+com/example/myapplication/SDA.java
+ com.example.myapplication.SDA
+ com.example.myapplication.SDA$1
+ com.example.myapplication.SDA$2
+ com.example.myapplication.SDA$3
+ com.example.myapplication.SDA$4
+com/example/myapplication/PaidCourses.java
+ com.example.myapplication.PaidCourses
+ com.example.myapplication.PaidCourses$1
+ com.example.myapplication.PaidCourses$2
+ com.example.myapplication.PaidCourses$3
+com/example/myapplication/classes/Login.java
+ com.example.myapplication.classes.Login
+com/example/myapplication/MyCourses.java
+ com.example.myapplication.MyCourses
+ com.example.myapplication.MyCourses$1
+ com.example.myapplication.MyCourses$2
+ com.example.myapplication.MyCourses$3
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/CN.java
+ com.example.myapplication.CN
+ com.example.myapplication.CN$1
+ com.example.myapplication.CN$2
+ com.example.myapplication.CN$3
+ com.example.myapplication.CN$4
+com/example/myapplication/SignUp.java
+ com.example.myapplication.SignUp
+ com.example.myapplication.SignUp$1
+com/example/myapplication/Automata.java
+ com.example.myapplication.Automata
+ com.example.myapplication.Automata$1
+ com.example.myapplication.Automata$2
+ com.example.myapplication.Automata$3
+ com.example.myapplication.Automata$4
+com/example/myapplication/FreeCourses.java
+ com.example.myapplication.FreeCourses
+ com.example.myapplication.FreeCourses$1
+ com.example.myapplication.FreeCourses$2
+ com.example.myapplication.FreeCourses$3
+com/example/myapplication/CN_Reviews.java
+ com.example.myapplication.CN_Reviews
+com/example/myapplication/ProfileActivity.java
+ com.example.myapplication.ProfileActivity
+ com.example.myapplication.ProfileActivity$1
+ com.example.myapplication.ProfileActivity$2
+ com.example.myapplication.ProfileActivity$3
+ com.example.myapplication.ProfileActivity$4
+ com.example.myapplication.ProfileActivity$5
+ com.example.myapplication.ProfileActivity$6
+com/example/myapplication/About.java
+ com.example.myapplication.About
